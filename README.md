@@ -24,14 +24,17 @@ A powerful command-line interface tool for growth marketers to analyze data, run
 3. Modify parameters to test different scenarios
 
 ### Option 2: Local Installation
-```bash
+
+To run locally, use these commands:
+
 git clone https://github.com/Ledac8/growth-marketing-cli.git
 cd growth-marketing-cli
 pip install -r requirements.txt
 python cli.py funnel
 
-📸 Example Output
-Funnel Analysis
+## 📸 Example Output
+
+### Funnel Analysis
 
 🔍 Funnel Analysis Tool
 ==================================================
@@ -43,7 +46,7 @@ Funnel Analysis
 
 🚨 Biggest drop-off: 85.0%
 
-A/B Test Analysis
+### A/B Test Analysis
 
 📊 A/B Test Analysis
 ==================================================
@@ -54,23 +57,20 @@ P-value: 0.0452
 ✅ Result: STATISTICALLY SIGNIFICANT
 🎉 Variant B is the winner!
 
-🛠 Technical Implementation
-Python 3.8+ with pandas, numpy, scipy, matplotlib
+## 🛠 Technical Implementation
 
-Statistical Analysis: A/B testing, confidence intervals, p-values
+- **Python 3.8+** with pandas, numpy, scipy, matplotlib
+- **Statistical Analysis**: A/B testing, confidence intervals, p-values
+- **Google Colab Integration**: Cloud-based execution environment
 
-Google Colab Integration: Cloud-based execution environment
+## 🎓 Skills Demonstrated
 
-🎓 Skills Demonstrated
-Data Analysis: Conversion optimization, statistical testing, cohort analysis
+- **Data Analysis**: Conversion optimization, statistical testing, cohort analysis
+- **Technical Marketing**: CLI development, automation, tool building
+- **Python Programming**: pandas, numpy, scipy, argparse
+- **Cloud Deployment**: Google Colab, GitHub integration
 
-Technical Marketing: CLI development, automation, tool building
-
-Python Programming: pandas, numpy, scipy, argparse
-
-Cloud Deployment: Google Colab, GitHub integration
-
-📁 Project Structure
+## 📁 Project Structure
 
 growth-marketing-cli/
 ├── cli.py              # Main CLI application
@@ -78,26 +78,6 @@ growth-marketing-cli/
 ├── requirements.txt    # Python dependencies
 ├── setup.py           # Package configuration
 └── README.md          # This file
-
-
 """
 
 print("README content created successfully!")
-
-
-## Step 2: Create ANOTHER NEW CELL - Paste ONLY this:
-
-```python
-# Save README.md to file
-with open('README.md', 'w') as f:
-    f.write(readme_content)
-
-print("✅ README.md file created locally!")
-print("📁 Files in directory:")
-!ls -la *.md
-
-
-
-
-
-
