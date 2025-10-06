@@ -41,4 +41,4 @@ I built a Python-based **Funnel Analyzer** that processes raw event data (CSV), 
 ### 🌐 Live Demo (Google Colab)
 Click the badge below to open the **Funnel Analyzer** notebook in Google Colab and run the code directly in your browser without any setup!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/Growth-Marketing-CLI/blob/main/Funnel_Analyzer_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ledac8/Growth-Marketing-CLI/blob/main/Funnel_Analyzer_Colab.ipynb)
